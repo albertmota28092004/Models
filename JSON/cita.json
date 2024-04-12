@@ -1,0 +1,6 @@
+{
+    "mascota":  {"$oid": "64e67bf47a97c6155bd1ad31"},
+    "fechaHora": "2023-08-30T18:00:00",
+    "servicio": {"_id": {"$oid": "64ebc0d2001beaa7dbb672af"}},
+    "empleado": {"_id": {"$oid": "64ebbfa4001beaa7dbb6729b"}}
+}

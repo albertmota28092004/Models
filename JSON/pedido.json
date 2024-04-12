@@ -1,0 +1,11 @@
+{
+    "cliente":{"_id": {"$oid": "64ebbf3c001beaa7dbb67299"}},
+    "fecha": "2022-02-20",
+    "empleado":{"_id": {"$oid": "64ebbfa4001beaa7dbb6729b"}},
+    "productos": [
+        {"_id": {"$oid": "64dd3f94f7c9555e0e93eecd"}},
+        {"_id": {"$oid": "64e66f9a7a97c6155bd1ace8"}}
+    ],
+    "subtotal": 50000.00,
+    "aprobada": true
+}

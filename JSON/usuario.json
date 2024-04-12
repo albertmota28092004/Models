@@ -1,0 +1,26 @@
+[
+    {
+    "nombre": "Álvaro Cárdenas",
+    "cedula": 1254879584,
+    "correo": "alvarocardenas@gmail.com",
+    "edad": 22,
+    "telefono": 3045187457,
+    "direccion": "Carrera 49 #68-20, Itagüí",
+    "rol": "Cliente",
+    "mascotas": [
+        {"$oid": "64e67bf47a97c6155bd1ad31"}
+        ],
+        "historialCompras": [
+            {"_id": {"$oid": "64e6772c7a97c6155bd1ad0c"}}
+        ]
+    },
+    {
+        "nombre": "Andrés Cárdenas",
+        "cedula": 1288888884,
+        "correo": "andrescardenas@gmail.com",
+        "edad": 22,
+        "telefono": 3045114457,
+        "direccion": "Carrera 29 #68-20, Itagüí",
+        "rol": "Empleado"
+    }
+]
